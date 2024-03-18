@@ -1,4 +1,4 @@
-package com.example.studentmanager;
+package loose.oose.fis.lab.student.manager;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
